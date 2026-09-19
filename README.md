@@ -26,10 +26,6 @@ The main objectives of this project are to:
 
 The dataset used in this project is the Chicago Crimes dataset provided by the City of Chicago Data Portal.
 
-### Dataset Source
-
-[City of Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data)
-
 ### Dataset Features
 
 The dataset contains information related to reported crime incidents, including:
